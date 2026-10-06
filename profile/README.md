@@ -1,4 +1,4 @@
-![The IEEE SRMIST team](images/banner.jpg)
+![The IEEE SRMIST team](images/team.jpg)
 
 # IEEE SRMIST
 
