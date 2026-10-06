@@ -17,7 +17,7 @@ We run workshops, hackathons, ideathons and talks that help students learn and b
 ## What we do
 
 <details>
-<summary><b>Hackathons</b>: build something real in a day or two</summary>
+<summary><b>Hackathons</b>: build something real against the clock</summary>
 <br>
 HackTrix (24 hours), TechTrek (48 hours, e-commerce websites) and Protocol (online, five days) bring teams together to design, code and ship under a deadline.
 </details>
