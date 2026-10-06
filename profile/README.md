@@ -1,3 +1,5 @@
+![The IEEE SRMIST team](images/banner.jpg)
+
 # IEEE SRMIST
 
 The IEEE Student Branch of SRM Institute of Science and Technology, Kattankulathur. We run workshops, hackathons, ideathons and talks that help students learn and build with new technology.
